@@ -26,6 +26,7 @@ namespace Virtual_File_System_Project
                 string command = Console.ReadLine();
                 ExecuteCommand(command);
                 Console.WriteLine("------------------------------------------------");
+                
             }
         }
 
